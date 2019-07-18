@@ -1,4 +1,4 @@
-﻿#psm-batchmining
+## psm-batchmining
 
 *Detecting and mining batching behavior from event log data.*
 
@@ -19,7 +19,7 @@ It then outputs a new event log in CSV format containing batched and non-batched
  
 - A directory containing output data of the PSM: this output contains multiple CSV files.
 
-- A directory containing two folders named "Statistics" and "Logs". These directories will be used to store the output produced by the BPM.
+- A directory containing two folders named "Statistics" and "Logs". These directories will be used to store the output produced by the BM.
 
 
 >Note: Output data of the PSM can be obtained by clicking the "Export..." button on the bottom right when using the PSM. This output data also contains a file called "max.csv", which needs to be deleted.
